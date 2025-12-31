@@ -38,7 +38,7 @@ Set up the assistant in Termux by executing the following commands:
 pkg update && pkg upgrade
 pkg install python git -y
 git clone https://github.com/techvyana20-oss/IronMan-Jarvis-Offline.git
-cd Offline-AI-Termux
+cd IronMan-Jarvis-Offline
 python offline_ai.py
 ```
 
